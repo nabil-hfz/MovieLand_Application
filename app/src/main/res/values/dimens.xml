@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="header_detail_height">132dp</dimen>
+    <dimen name="card_min_height">200dp</dimen>
+    <dimen name="spacing_with_32">32dp</dimen>
+    <dimen name="spacing_with_24">24dp</dimen>
+    <dimen name="spacing_with_16">16dp</dimen>
+    <dimen name="spacing_with_8">8dp</dimen>
+    <dimen name="spacing_with_4">4dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="play_trailer_image_size">56dp</dimen>
+     <dimen name="card_trailer_min_height" tools:ignore="MissingDefaultResource">88dp</dimen>
+    <dimen name="list_item_height">60dp</dimen>
+
+</resources>

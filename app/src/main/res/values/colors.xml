@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_grey">#ffDDDDDD</color>
+    <color name="background_grey_trailer">#AAA1A1</color>
+     <color name="text_light">#ff666666</color>
+    <color name="text_black">#000000</color>
+    <color name="justWhite">#FFFEFE</color>
+    <color name="justGreen">#37FF00</color>
+    <color name="justBlue">#002AFF</color>
+    <color name="justRed">#FF0000</color>
+    <color name="design_default_color_secondary_variant">#01AC9D</color>
+    <color name="design_default_color_secondary">#01C7B3</color>
+
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+</resources>
